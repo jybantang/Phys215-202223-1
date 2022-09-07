@@ -4,7 +4,7 @@ _by: Johnrob Y. Bantang, Ph.D._
 [Main](./)
 
 ## Class Details
-- Class code: 41446
+- Class code: _see Google Classroom_
 - Course name: Physics 215
 - Course title: Computational Methods of Physics
 - Description: Numerical methods;
