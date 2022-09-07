@@ -14,6 +14,12 @@ computer langueges for numerical solutions and algebraic manipulations.
 - Course credit: 3.0 u
 - Class schedule: TTh 5:30-7pm (PST)
 
+## Class mode
+This semester, we will have a mixture of the following modes:
+1. Face-to-face physical class with option to HyperFlex (with simultaneous Zoom session).
+2. Pure synchronous online session.
+3. Asynchronous mode : Interaction with classmates and experts in the Discord server is encouraged.
+
 ## Necessities:
 1. Computer (laptop or desktop) with Internet access<sup>[1](#gpu-note)</sup>
 2. Patience and enthusiasm
