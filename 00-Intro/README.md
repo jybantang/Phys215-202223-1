@@ -13,7 +13,7 @@
 Based on experience, the best go-to sites are the main references indicated in [the Syllabus](SYLLABUS.md).
 
 # Installing Julia
-Julia app can be directly downloaded from the Julialang.org “Download Julia” page (https://julialang.org/downloads). This will provide CLI Julia. I recommend downloading the latest stable (as of 15 Sep 2021), **v 1.6.2**.
+Julia app can be directly downloaded from the Julialang.org “Download Julia” page (https://julialang.org/downloads). This will provide CLI Julia. I recommend downloading the latest stable (22 August 2022), **v 1.8.0**.
 
 # Julia Tutorials
 These links are found in the updated websites of Julialang.org and others. There should be no need to enroll in other resource. However, if you have the opportunity to access them, that’s no worry.
