@@ -19,20 +19,20 @@ Julia app can be directly downloaded from the Julialang.org “Download Julia”
 These links are found in the updated websites of Julialang.org and others. There should be no need to enroll in other resource. However, if you have the opportunity to access them, that’s no worry.
 
 Remember that in the end, we just wish to become Physicist who can use the computer to help us in our discovery.
-- Julia Basics: https://docs.julialang.org/en/v1/manual/getting-started/
-- Plots Basics: https://docs.juliaplots.org/latest/basics/
-- Plots Tutorial: https://docs.juliaplots.org/latest/tutorial/
-- Pkg Basics: https://pkgdocs.julialang.org/v1/getting-started/#Basic-Usage
+- Julia Basics: (https://docs.julialang.org/en/v1/manual/getting-started/)
+- Plots Basics: (https://docs.juliaplots.org/latest/basics/)
+- Plots Tutorial: (https://docs.juliaplots.org/latest/tutorial/)
+- Pkg Basics: (https://pkgdocs.julialang.org/v1/getting-started/#Basic-Usage)
 
 # Installing Jupyter notebook
 **Jupyter Notebooks** are fun to use.
 Notebooks can contain discussions like a diary.
 
 Since we will eventually use this as a way to submit your homeworks, here are the links from where you will be able to download the Jupyter installations.
-- Main page: https://jupyter.org
-- Jupyter Notebook documentation: https://jupyter-notebook.readthedocs.io/en/stable/
-- Jupyter Notebook installation will require Python installation via Anaconda
-- Installing IJulia and Julia kernel into Jupyter: https://github.com/JuliaLang/IJulia.jl
+- Main page: (https://jupyter.org)
+- Jupyter Notebook documentation: (https://jupyter-notebook.readthedocs.io/en/stable/)
+- Jupyter Notebook installation will require Python installation via (Anaconda)[https://www.anaconda.com/products/distribution]
+- Installing IJulia and Julia kernel into Jupyter: (https://github.com/JuliaLang/IJulia.jl)
 
 ## Additional notes
 Here, I initially utilized the `Pluto` package of Julia.
