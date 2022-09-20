@@ -49,13 +49,17 @@ The sequence of topics will generally follow the MAIN book reference following e
 **OBJECTIVE:** Identify critical principles of simulation and modeling in at a project involving physical system modeling or simulation.
 
 # Submission modes
-Two possible modes of submission is possible.
-In both cases, submission must be done through the Google Classroom.
-All `[filename]` must have the following pattern: `Session[n]-[Surname-GivenName]-[Exercise/File-short-title]` with the appropriate extension name.
-1. **Option 1 -- Jupyter nb file**: Submit a Jupyter notebook file with the following name format `[filename].ipynb`.
-   Other related files must be submitted accordingly changing the portion `[Exercise/File-short-title]`.
-2. **Option 2 -- GitHub link**: Comment under "Private Comments" the link of the `.ipynb` file in your GitHub repository.
-   The repository or at least the file must be public or at least accessible to the Instructor.
-   Upload a PDF version of the Jupyter notebook of the same filename base ---after having run all necessary commands--- together with the same functions files stated in Option 1. **If PDF export does not work** you may opt to submit an HTML-formatted output instead.
-   
+
+All submissions must be done via the Google Classroom link.
+
+There are two options for submitting in our Google Classroom. The submission date will be reflected appropriately by the Google Classroom.
+
+For both options, click the appropriate button ("TURN IN")
+1. **Option 1 Jupyter nb file:** Upload `Session[n]-[SURNAME-GivenName]-[Exercise/File-short-title].ipynb` and the other required files such as `Session[n]-Function-name1.jl` and `Session[n]-Function-name2.jl` (or similar files).
+2. **Option 2 GitHub link:** Create a new Google Doc with the same filename `Session[n]-[SURNAME-GivenName]-[Exercise/File-short-title]` and type there the GitHub link of the code.
+
+Sample name: `Session0-BANTANG-JohnRob-Julia-exploration.ipynb`
+
+**For both cases**, also submit a PDF version of the Jupyter notebook of the same filename base ---after having run all necessary commands--- together with the other functions files as required. **If PDF export does not work** you may opt to submit an HTML-formatted output instead.
+
 Conversion of the notebook to different formats can be achieved in the web-interface via the menu `File / Download as / [Choose "HTML/PDF via ..."]`.
