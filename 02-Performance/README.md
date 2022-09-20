@@ -1,7 +1,7 @@
 # Session 2: Measuring code performance
 [Previous](../01-HPC/) | [Main](../) | [Next](../03-Types/)
 
-# **OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function or constant using Julia benchmarking tools.
+# **OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function or constant or algorithm using Julia benchmarking tools.
 - [ ] **KR1:** Implemented (customized) at least one math/physics textbook function, or constant (prefer those that involve a sum or a loop) in Julia. Discuss its importance in Physics. See Resources below.
 - [ ] **KR2:** Compared the performance (accuracy) of the implemented function in comparison with the existing special functions within Julia.
 - [ ] **KR3:** Successful loading of the `BenchmarkTools` module. May need to add it first via the `Pkg` or REPL package mode.
@@ -17,3 +17,4 @@ A more complete list of the special functions is found in [a Wikipedia entry](ht
 
 # Slides used
 We used [this slide set during the demo discussion](Session-2-Performance.slides.html).
+There is also [a sample customized ODE solver slide deck](Session-2-1-explore-ODE.html).
