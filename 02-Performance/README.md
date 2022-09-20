@@ -15,6 +15,8 @@ The basics of `BenchmarkTools` module package is found [here](https://juliaci.gi
 Special functions may be accessed the [module `SpecialFunctions`](https://specialfunctions.juliamath.org/stable/functions_overview/).
 A more complete list of the special functions is found in [a Wikipedia entry](https://en.wikipedia.org/wiki/List_of_mathematical_functions) as well as in the book [Arfken-Weber-Harris, Mathematical Methods for Physicists](https://www.sciencedirect.com/book/9780123846549/mathematical-methods-for-physicists).
 
+ODE Solvers are available at [the SciML page for ODE solvers](https://diffeq.sciml.ai/stable/).
+
 # Slides used
 We used [this slide set during the demo discussion](Session-2-Performance.slides.html).
 There is also [a sample customized ODE solver slide deck](Session-2-1-explore-ODE.html).
