@@ -18,5 +18,5 @@ A more complete list of the special functions is found in [a Wikipedia entry](ht
 ODE Solvers are available at [the SciML page for ODE solvers](https://diffeq.sciml.ai/stable/).
 
 # Slides used
-We used [this slide set during the demo discussion](Session-2-Performance.slides.html).
-There is also [a sample customized ODE solver slide deck](Session-2-1-explore-ODE.html).
+- We used [this slide set during the demo discussion](Session-2-Performance.slides.html).
+- There is also [a sample customized ODE solver slide deck](Session-2-1-explore-ODE.html).
